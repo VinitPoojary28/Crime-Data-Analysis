@@ -11,42 +11,40 @@ Data: Crime_Data_from_2020_to_Present.csv
 
 Size: Over 700,000 records
 
-Features Include:
+## Features Include:
 
-Date and Time of Crime (DATE OCC, Date Rptd)
+* Date and Time of Crime (DATE OCC, Date Rptd)
 
-Crime Description (Crm Cd Desc)
+* Crime Description (Crm Cd Desc)
 
-Area Name and Code
+* Area Name and Code
 
-Status (e.g., Case Cleared)
+* Status (e.g., Case Cleared)
 
-Victim and Suspect Details
+* Victim and Suspect Details
 
 ## 🧠 Project Goals
 
-Clean and parse raw date fields with mixed formats
+* Clean and parse raw date fields with mixed formats
 
-Analyze monthly crime trends from 2020 onwards
+* Analyze monthly crime trends from 2020 onwards
 
-Identify crime seasonality
+* Identify crime seasonality
 
-Detect long-term trends using Linear Regression
+* Detect long-term trends using Linear Regression
 
-Prepare data for visualizations and reporting
+* Prepare data for visualizations and reporting
 
 ## ⚙️ Tech Stack
 
-Tool	Purpose
-Python	Data processing and visualization
+| Tool             | Purpose                                     |
+| ---------------- | ------------------------------------------- |
+| **Python**       | Data processing and visualization           |
+| **DuckDB**       | Running complex SQL queries on CSV directly |
+| **Pandas**       | Data manipulation                           |
+| **Matplotlib**   | Visualizing trends and regression           |
+| **Scikit-learn** | Linear regression modeling                  |
 
-DuckDB	Running complex SQL queries on CSV directly
-
-Pandas	Data manipulation
-
-Matplotlib	Visualizing trends and regression
-
-Scikit-learn	Linear regression modeling
 
 
 ## 📊 Key Insights Generated
