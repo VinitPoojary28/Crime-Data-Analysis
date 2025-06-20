@@ -4,12 +4,12 @@
 
 Welcome to the Crime Data Analysis project, where we analyze crime trends in Los Angeles from 2020 to the present using DuckDB, Pandas, and Matplotlib. This project focuses on extracting meaningful insights from real-world crime data to understand patterns, trends, and potential hotspots.
 
-📁 Dataset
-Source: Los Angeles Open Data Portal
+# 📁 Dataset
+*Source: Los Angeles Open Data Portal
 
-Data: Crime_Data_from_2020_to_Present.csv
+*Data: Crime_Data_from_2020_to_Present.csv
 
-Size: Over 700,000 records
+*Size: Over 700,000 records
 
 ## Features Include:
 
