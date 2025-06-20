@@ -1,6 +1,7 @@
 # Crime Data Analysis
 
-🔍 Crime Data Analysis (2020–Present)
+## 🔍 Crime Data Analysis (2020–Present)
+
 Welcome to the Crime Data Analysis project, where we analyze crime trends in Los Angeles from 2020 to the present using DuckDB, Pandas, and Matplotlib. This project focuses on extracting meaningful insights from real-world crime data to understand patterns, trends, and potential hotspots.
 
 📁 Dataset
@@ -22,7 +23,8 @@ Status (e.g., Case Cleared)
 
 Victim and Suspect Details
 
-🧠 Project Goals
+## 🧠 Project Goals
+
 Clean and parse raw date fields with mixed formats
 
 Analyze monthly crime trends from 2020 onwards
@@ -33,15 +35,22 @@ Detect long-term trends using Linear Regression
 
 Prepare data for visualizations and reporting
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
+
 Tool	Purpose
 Python	Data processing and visualization
+
 DuckDB	Running complex SQL queries on CSV directly
+
 Pandas	Data manipulation
+
 Matplotlib	Visualizing trends and regression
+
 Scikit-learn	Linear regression modeling
 
-📊 Key Insights Generated
+
+## 📊 Key Insights Generated
+
 📈 Month-wise Crime Trend (2020–Present)
 
 📉 Trend Line with Linear Regression to check if crime is increasing or decreasing
